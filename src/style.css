@@ -1,0 +1,78 @@
+.imagem-carrossel-um{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred;
+}
+
+.navbar-brand{
+    color: darkred;
+}
+
+.nav-item{
+    color: black;
+}
+
+/* .carousel-caption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.btn-primary{
+    background-color: darkred;
+    border: 1px solid darkred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-primary:hover{
+    background-color: #fff;
+    border: 2px solid darkred;
+    color: black;
+}
+
+.card-deck{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    border-color: darkred;
+}
+
+.card-img-top-1,.card-img-top-2,.card-img-top-3, .card-img-top-4, .card-img-top-5{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-img-top-6{
+    object-fit: cover;
+    object-position: 70% 70%;
+    height: 200px;
+}
+
+.footer {
+    background-color: #fff;
+    border-top: 1px solid #00000048;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+
